@@ -1,0 +1,18 @@
+
+<Email>user@mail.com</Email>
+<Pass>123qwert</Pass>
+<Token>AcdkfjBHxhx7webch</Token>
+
+
+
+<LocationName>aq</LocationName>
+<LocationId>3</LocationId>
+<LocationType>web</LocationType>
+
+
+<Success>true<Success>
+  <User>
+    <Name>user city</Name>
+    <FirstName>user</FirstName>
+    <LastName>city</LastName>
+  </User>
