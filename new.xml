@@ -1,0 +1,11 @@
+{
+	<Name>Alexandr</Name>
+	<SurName>Sdobnov</SurName>
+	<Age>25</Age>
+	<HomePets>
+		<Name>Sammy</Name>
+		<Age>2</Age>
+		<Name>Ru</Name>
+		<Age>2</Age>
+	<DesiredSalary>1500</DesiredSalary>
+}
